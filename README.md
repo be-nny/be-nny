@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be-nny&label=Profile%20views&color=0e75b6&style=flat" alt="be-nny" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me or see <a href="https://portfolio-seven-gules-75.vercel.app/" target="blank">my portfolio</a>
+</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ben abbott" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben abbott" height="30" width="40" />
   </a>
-  <a href="https://portfolio-seven-gules-75.vercel.app/" target="blank">My Portfolio</a>
   <a href="mailto:ben.abbott1717@gmail.com">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="ben abbott" height="30" width="40" />
   </a>

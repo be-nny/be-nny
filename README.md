@@ -25,7 +25,7 @@
   },
 
   "favourite-languages": [
-    "Java", "Python"
+    "Java", "Python", "GoLang"
   ]
 
   "learning-languages": [

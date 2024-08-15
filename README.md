@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ben!</h1>
-<h3 align="center">2nd Year Computer Science student at the University of Exeter</h3>
+<h3 align="center">3nd Year Computer Science student at the University of Exeter</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=be-nny&label=Profile%20views&color=0e75b6&style=flat" alt="be-nny" /> </p>
 
 <h3 align="left">Connect with me or see <a href="https://portfolio-seven-gules-75.vercel.app/" target="blank">my portfolio</a>

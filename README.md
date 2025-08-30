@@ -1,17 +1,36 @@
 # Hi, I'm Ben!
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A8B9CC)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&color=ED8B00)
 
 
-I'm a University of Exeter BSc Computer Science graduate. Programming is creative and so I aspire to expand my knowledge into various frameworks, languages, and challenges to help contribute imaginative solutions to difficult problems.
+```console
+ben@ubuntu:~$ ./info.sh
 
-🚀 Engineering strong, maintainable microservice architectures primarily using Go (GoLang) and the Google Cloud Console suite
+Hello, I'm a Junior Software Engineer with a focus on backend development!
+I also graduated from the University of Exeter with a BSc in Computer Science :)
+```
 
+## Skills
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=2bbc8a)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&color=2bbc8a)
+
+Programming is creative! Difficult problems require imaginative solutions!
+
+```console
+ben@ubuntu:~$ ./skills.sh
+
+🧩 Microservice developement
 📦 Packaging reliable systems following CI/CD practices 
+💾 Backend development
+
+```
 
 
+### Tools 
+![Docker](https://img.shields.io/badge/Deployment-Docker-informational?style=flat&logo=docker&color=2bbc8a)
+![Cloud Run](https://img.shields.io/badge/Deployment-Google_Cloud_Run-informational?style=flat&logo=google-cloud&color=2bbc8a)
+![Cloud Functions](https://img.shields.io/badge/Serverless-Google_Cloud_Functions-informational?style=flat&logo=google-cloud&color=2bbc8a)
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
 

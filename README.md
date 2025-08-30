@@ -27,7 +27,7 @@ ben@ubuntu:~$ ./skills.sh
 
 ```
 
-Check out my [dissertation project](https://github.com/be-nny/music-genre-analysis-tool) - this explores the realm of music genre anaylsis using unsupervised machine leanring.
+Check out my [dissertation project](https://github.com/be-nny/music-genre-analysis-tool) - this explores the realm of music genre anaylsis using unsupervised machine learning.
 
 
 
